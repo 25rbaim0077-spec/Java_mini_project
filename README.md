@@ -1,13 +1,13 @@
-#Streamify Pro — Music & Video Streaming Simulator
+# Streamify Pro — Music & Video Streaming Simulator
 Roll No. 77 · OOP Java Mini Project 16
 
-##Requirements
+## Requirements
 JDK 17+
 Windows (for RUN.bat)
 Run
 Extract the ZIP and double-click RUN.bat. It compiles all Java files and launches the app.
 
-##Included
+## Included
 Modern dark Swing dashboard with sidebar, search, cards, playlist, playback controls
 Song, movie, series and episode catalog
 Live search by title, genre, creator, or media type
